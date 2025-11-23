@@ -4,8 +4,6 @@ A curated collection of wallpapers organized by categories.
 Click any thumbnail below to view the full-resolution image!
 
 ---
-# ALL THE CREDITS OF WALLPAPERS GOES TO RESPECTED CREATORS
----
 
 
 ## 📁 Catppuccin-Latte
@@ -211,6 +209,75 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./brutalism-architecture/william-priess-1jyHQxBAE7A-unsplash.jpg"><img src="./brutalism-architecture/william-priess-1jyHQxBAE7A-unsplash.jpg" width="200"/></a> 
 <a href="./brutalism-architecture/yakov-leonov-NJNpUKiZF7s-unsplash.jpg"><img src="./brutalism-architecture/yakov-leonov-NJNpUKiZF7s-unsplash.jpg" width="200"/></a> 
 <a href="./brutalism-architecture/zachary-mcsween-manickchand-I-tis7ZFIVI-unsplash.jpg"><img src="./brutalism-architecture/zachary-mcsween-manickchand-I-tis7ZFIVI-unsplash.jpg" width="200"/></a> 
+
+---
+
+## 📁 daemon-collection
+
+<a href="./daemon-collection/120256374_p0.png"><img src="./daemon-collection/120256374_p0.png" width="200"/></a> 
+<a href="./daemon-collection/5dIqO72.jpg"><img src="./daemon-collection/5dIqO72.jpg" width="200"/></a> 
+<a href="./daemon-collection/a-one-way-ticket-to-the-modern-frontier.jpg"><img src="./daemon-collection/a-one-way-ticket-to-the-modern-frontier.jpg" width="200"/></a> 
+<a href="./daemon-collection/a_city_at_night_with_many_tall_buildings.jpg"><img src="./daemon-collection/a_city_at_night_with_many_tall_buildings.jpg" width="200"/></a> 
+<a href="./daemon-collection/a_city_skyline_at_night.jpg"><img src="./daemon-collection/a_city_skyline_at_night.jpg" width="200"/></a> 
+<a href="./daemon-collection/a_city_skyline_at_night_01.jpg"><img src="./daemon-collection/a_city_skyline_at_night_01.jpg" width="200"/></a> 
+<a href="./daemon-collection/a_city_skyline_with_a_tall_building.jpg"><img src="./daemon-collection/a_city_skyline_with_a_tall_building.jpg" width="200"/></a> 
+<a href="./daemon-collection/a_city_with_many_tall_buildings.jpg"><img src="./daemon-collection/a_city_with_many_tall_buildings.jpg" width="200"/></a> 
+<a href="./daemon-collection/a_colorful_buildings_on_a_cliff_by_the_water.jpg"><img src="./daemon-collection/a_colorful_buildings_on_a_cliff_by_the_water.jpg" width="200"/></a> 
+<a href="./daemon-collection/a_flower_in_a_window.jpg"><img src="./daemon-collection/a_flower_in_a_window.jpg" width="200"/></a> 
+<a href="./daemon-collection/a_mountain_with_snow_and_clouds_01.jpg"><img src="./daemon-collection/a_mountain_with_snow_and_clouds_01.jpg" width="200"/></a> 
+<a href="./daemon-collection/b-058.jpg"><img src="./daemon-collection/b-058.jpg" width="200"/></a> 
+<a href="./daemon-collection/blade-runner-2049-love-story-4k-y9-1920x1080.jpg"><img src="./daemon-collection/blade-runner-2049-love-story-4k-y9-1920x1080.jpg" width="200"/></a> 
+<a href="./daemon-collection/blade_runner.jpg"><img src="./daemon-collection/blade_runner.jpg" width="200"/></a> 
+<a href="./daemon-collection/blue-cityscape-minimalist-r1-1920x1080.jpg"><img src="./daemon-collection/blue-cityscape-minimalist-r1-1920x1080.jpg" width="200"/></a> 
+<a href="./daemon-collection/blue_moon_and_lake.jpg"><img src="./daemon-collection/blue_moon_and_lake.jpg" width="200"/></a> 
+<a href="./daemon-collection/city-edge-4k.jpg"><img src="./daemon-collection/city-edge-4k.jpg" width="200"/></a> 
+<a href="./daemon-collection/city.jpg"><img src="./daemon-collection/city.jpg" width="200"/></a> 
+<a href="./daemon-collection/colony-x-scifi-buildings-5k.jpg"><img src="./daemon-collection/colony-x-scifi-buildings-5k.jpg" width="200"/></a> 
+<a href="./daemon-collection/cyber-city-neon-lights-5k-gx-1920x1080.jpg"><img src="./daemon-collection/cyber-city-neon-lights-5k-gx-1920x1080.jpg" width="200"/></a> 
+<a href="./daemon-collection/cyber-night-boy-standing-on-car-4k.jpg"><img src="./daemon-collection/cyber-night-boy-standing-on-car-4k.jpg" width="200"/></a> 
+<a href="./daemon-collection/cyberpunk-City.jpg"><img src="./daemon-collection/cyberpunk-City.jpg" width="200"/></a> 
+<a href="./daemon-collection/cyberpunk-boy-in-scifi-world-mr.jpg"><img src="./daemon-collection/cyberpunk-boy-in-scifi-world-mr.jpg" width="200"/></a> 
+<a href="./daemon-collection/cyberpunk-jungle-o9-1920x1080.jpg"><img src="./daemon-collection/cyberpunk-jungle-o9-1920x1080.jpg" width="200"/></a> 
+<a href="./daemon-collection/cyberpunk-neon-city.jpg"><img src="./daemon-collection/cyberpunk-neon-city.jpg" width="200"/></a> 
+<a href="./daemon-collection/cyberpunk-sci-fi-girl-and-the-urban-maze-synthetic-skylines.jpg"><img src="./daemon-collection/cyberpunk-sci-fi-girl-and-the-urban-maze-synthetic-skylines.jpg" width="200"/></a> 
+<a href="./daemon-collection/earathlysteller.jpg"><img src="./daemon-collection/earathlysteller.jpg" width="200"/></a> 
+<a href="./daemon-collection/evening-rush-in-scifi-city-5k.jpg"><img src="./daemon-collection/evening-rush-in-scifi-city-5k.jpg" width="200"/></a> 
+<a href="./daemon-collection/fog.jpg"><img src="./daemon-collection/fog.jpg" width="200"/></a> 
+<a href="./daemon-collection/futuristic-city-tall-buildings-concept-art-4k.jpg"><img src="./daemon-collection/futuristic-city-tall-buildings-concept-art-4k.jpg" width="200"/></a> 
+<a href="./daemon-collection/futuristic-skylines-a-scifi-twist-on-modern-cityscapes.jpg"><img src="./daemon-collection/futuristic-skylines-a-scifi-twist-on-modern-cityscapes.jpg" width="200"/></a> 
+<a href="./daemon-collection/joi-blade-runner-2049.jpg"><img src="./daemon-collection/joi-blade-runner-2049.jpg" width="200"/></a> 
+<a href="./daemon-collection/lake_tree_nautre.jpg"><img src="./daemon-collection/lake_tree_nautre.jpg" width="200"/></a> 
+<a href="./daemon-collection/lunatic-city.jpg"><img src="./daemon-collection/lunatic-city.jpg" width="200"/></a> 
+<a href="./daemon-collection/mountain.png"><img src="./daemon-collection/mountain.png" width="200"/></a> 
+<a href="./daemon-collection/mountain_lake_nature.jpg"><img src="./daemon-collection/mountain_lake_nature.jpg" width="200"/></a> 
+<a href="./daemon-collection/mountains_sky_clouds.jpg"><img src="./daemon-collection/mountains_sky_clouds.jpg" width="200"/></a> 
+<a href="./daemon-collection/muscle-car-and-pink-horizon-city-qq-1920x1080.jpg"><img src="./daemon-collection/muscle-car-and-pink-horizon-city-qq-1920x1080.jpg" width="200"/></a> 
+<a href="./daemon-collection/my-city.jpg"><img src="./daemon-collection/my-city.jpg" width="200"/></a> 
+<a href="./daemon-collection/nebula.jpg"><img src="./daemon-collection/nebula.jpg" width="200"/></a> 
+<a href="./daemon-collection/neon-city.jpg"><img src="./daemon-collection/neon-city.jpg" width="200"/></a> 
+<a href="./daemon-collection/phyzik-corp-5k.jpg"><img src="./daemon-collection/phyzik-corp-5k.jpg" width="200"/></a> 
+<a href="./daemon-collection/power_lines_and_trees_at_sunset.jpg"><img src="./daemon-collection/power_lines_and_trees_at_sunset.jpg" width="200"/></a> 
+<a href="./daemon-collection/save-me.jpg"><img src="./daemon-collection/save-me.jpg" width="200"/></a> 
+<a href="./daemon-collection/the-cyber-fate-wa-1920x1080.jpg"><img src="./daemon-collection/the-cyber-fate-wa-1920x1080.jpg" width="200"/></a> 
+<a href="./daemon-collection/uwp4693819.jpeg"><img src="./daemon-collection/uwp4693819.jpeg" width="200"/></a> 
+<a href="./daemon-collection/uwp4835870.jpeg"><img src="./daemon-collection/uwp4835870.jpeg" width="200"/></a> 
+<a href="./daemon-collection/uwp4835871.jpeg"><img src="./daemon-collection/uwp4835871.jpeg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-391r8v.jpg"><img src="./daemon-collection/wallhaven-391r8v.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-5g9x93.jpg"><img src="./daemon-collection/wallhaven-5g9x93.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-85pk82.png"><img src="./daemon-collection/wallhaven-85pk82.png" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-9dpk3k.jpg"><img src="./daemon-collection/wallhaven-9dpk3k.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-eyd6qw.jpg"><img src="./daemon-collection/wallhaven-eyd6qw.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-eypggk.jpg"><img src="./daemon-collection/wallhaven-eypggk.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-j3w56m.png"><img src="./daemon-collection/wallhaven-j3w56m.png" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-kwpl77.jpg"><img src="./daemon-collection/wallhaven-kwpl77.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-lm2982.jpg"><img src="./daemon-collection/wallhaven-lm2982.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-lmd95y.jpg"><img src="./daemon-collection/wallhaven-lmd95y.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-neprpk.jpg"><img src="./daemon-collection/wallhaven-neprpk.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-nexmol.jpg"><img src="./daemon-collection/wallhaven-nexmol.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-z8jp3o.jpg"><img src="./daemon-collection/wallhaven-z8jp3o.jpg" width="200"/></a> 
+<a href="./daemon-collection/wallhaven-zmlgzv.jpg"><img src="./daemon-collection/wallhaven-zmlgzv.jpg" width="200"/></a> 
+<a href="./daemon-collection/waves_crashing_waves_on_rocks.jpg"><img src="./daemon-collection/waves_crashing_waves_on_rocks.jpg" width="200"/></a> 
+<a href="./daemon-collection/wp8438172-tokyo-4k-wallpapers.jpg"><img src="./daemon-collection/wp8438172-tokyo-4k-wallpapers.jpg" width="200"/></a> 
 
 ---
 
@@ -479,7 +546,3 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./xyarjun-collection/anime/cartoon_characters_in_a_blue_background.png"><img src="./xyarjun-collection/anime/cartoon_characters_in_a_blue_background.png" width="200"/></a> 
 <a href="./xyarjun-collection/anime/cartoon_of_a_girl_in_a_bus.jpg"><img src="./xyarjun-collection/anime/cartoon_of_a_girl_in_a_bus.jpg" width="200"/></a> 
 <a href="./xyarjun-collection/anime/power_lines_and_trees_at_sunset.jpg"><img src="./xyarjun-collection/anime/power_lines_and_trees_at_sunset.jpg" width="200"/></a> 
-
----
-# AND MANY MORE WALLS INSIDE DIRS
----
