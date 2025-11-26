@@ -494,31 +494,14 @@ Click any thumbnail below to view the full-resolution image!
 
 ## 📁 lix-collection
 
-<a href="lix-collection/1347723.png"><img src="lix-collection/1347723.png" width="200"/></a> 
-<a href="lix-collection/1350453.png"><img src="lix-collection/1350453.png" width="200"/></a> 
-<a href="lix-collection/1350456.png"><img src="lix-collection/1350456.png" width="200"/></a> 
 <a href="lix-collection/310d46c63db719604362e80d76ed9afd.jpg"><img src="lix-collection/310d46c63db719604362e80d76ed9afd.jpg" width="200"/></a> 
 <a href="lix-collection/3d-tech.jpg"><img src="lix-collection/3d-tech.jpg" width="200"/></a> 
 <a href="lix-collection/461788486_1727109438106612_4767770564594984559_n.jpg"><img src="lix-collection/461788486_1727109438106612_4767770564594984559_n.jpg" width="200"/></a> 
 <a href="lix-collection/4k-Red-Sun-Illuminating-Japanese-Temple-Mountain-Scene.jpg"><img src="lix-collection/4k-Red-Sun-Illuminating-Japanese-Temple-Mountain-Scene.jpg" width="200"/></a> 
 <a href="lix-collection/4k-Red-Sun-Over-Japanese-Mountain-Temple-Landscape.jpg"><img src="lix-collection/4k-Red-Sun-Over-Japanese-Mountain-Temple-Landscape.jpg" width="200"/></a> 
-<a href="lix-collection/6bcc492952a2cfd905d9b371fdb4ee50.png"><img src="lix-collection/6bcc492952a2cfd905d9b371fdb4ee50.png" width="200"/></a> 
-<a href="lix-collection/792632.png"><img src="lix-collection/792632.png" width="200"/></a> 
-<a href="lix-collection/Frame 11.2.jpg"><img src="lix-collection/Frame 11.2.jpg" width="200"/></a> 
-<a href="lix-collection/Frame 11.jpg"><img src="lix-collection/Frame 11.jpg" width="200"/></a> 
-<a href="lix-collection/Frame 12.jpg"><img src="lix-collection/Frame 12.jpg" width="200"/></a> 
-<a href="lix-collection/Frame 14.jpg"><img src="lix-collection/Frame 14.jpg" width="200"/></a> 
-<a href="lix-collection/Frame 15.2.jpg"><img src="lix-collection/Frame 15.2.jpg" width="200"/></a> 
-<a href="lix-collection/Frame 15.jpg"><img src="lix-collection/Frame 15.jpg" width="200"/></a> 
-<a href="lix-collection/Frame 16.jpg"><img src="lix-collection/Frame 16.jpg" width="200"/></a> 
-<a href="lix-collection/Frame 17.jpg"><img src="lix-collection/Frame 17.jpg" width="200"/></a> 
 <a href="lix-collection/G14_wallpaper_3840x2160.jpg"><img src="lix-collection/G14_wallpaper_3840x2160.jpg" width="200"/></a> 
 <a href="lix-collection/Genesis_3840x2160.jpg"><img src="lix-collection/Genesis_3840x2160.jpg" width="200"/></a> 
-<a href="lix-collection/Nocturne-of-Steel-and-Glass.png"><img src="lix-collection/Nocturne-of-Steel-and-Glass.png" width="200"/></a> 
-<a href="lix-collection/Pastel Sky Follow For More Full Credits To U.png"><img src="lix-collection/Pastel Sky Follow For More Full Credits To U.png" width="200"/></a> 
-<a href="lix-collection/RDT_20250117_2329291125551716230111336.jpg"><img src="lix-collection/RDT_20250117_2329291125551716230111336.jpg" width="200"/></a> 
 <a href="lix-collection/ROG_Wallpaper_REIGNITE_source.jpg"><img src="lix-collection/ROG_Wallpaper_REIGNITE_source.jpg" width="200"/></a> 
-<a href="lix-collection/Solitary-Glow.png"><img src="lix-collection/Solitary-Glow.png" width="200"/></a> 
 <a href="lix-collection/abstract-blue-wave-background-digital-art-4k-wallpaper-uhdpaper.com-486@0@f.jpg"><img src="lix-collection/abstract-blue-wave-background-digital-art-4k-wallpaper-uhdpaper.com-486@0@f.jpg" width="200"/></a> 
 <a href="lix-collection/ancient-ruins-overgrown-nature-desktop-wallpaper.jpg"><img src="lix-collection/ancient-ruins-overgrown-nature-desktop-wallpaper.jpg" width="200"/></a> 
 <a href="lix-collection/anime-boy-gun-cyberpunk-sci-fi-4k-wallpaper-uhdpaper.com-620@5@f.jpg"><img src="lix-collection/anime-boy-gun-cyberpunk-sci-fi-4k-wallpaper-uhdpaper.com-620@5@f.jpg" width="200"/></a> 
@@ -543,9 +526,6 @@ Click any thumbnail below to view the full-resolution image!
 <a href="lix-collection/anime-girl-with-white-hair-4k-wallpaper-uhdpaper.com-693@2@b.jpg"><img src="lix-collection/anime-girl-with-white-hair-4k-wallpaper-uhdpaper.com-693@2@b.jpg" width="200"/></a> 
 <a href="lix-collection/anime-guy-cyberpunk-sci-fi-hd-wallpaper-uhdpaper.com-737@3@a.jpg"><img src="lix-collection/anime-guy-cyberpunk-sci-fi-hd-wallpaper-uhdpaper.com-737@3@a.jpg" width="200"/></a> 
 <a href="lix-collection/astronaut-jelly-fish-space-digital-art-hd-wallpaper-uhdpaper.com-86@5@h.jpg"><img src="lix-collection/astronaut-jelly-fish-space-digital-art-hd-wallpaper-uhdpaper.com-86@5@h.jpg" width="200"/></a> 
-<a href="lix-collection/astronaut.png"><img src="lix-collection/astronaut.png" width="200"/></a> 
-<a href="lix-collection/astronaut2.png"><img src="lix-collection/astronaut2.png" width="200"/></a> 
-<a href="lix-collection/asus-tuf-amoled-3840x2160-15698.png"><img src="lix-collection/asus-tuf-amoled-3840x2160-15698.png" width="200"/></a> 
 <a href="lix-collection/asus-tuf-gaming-5k-logo-3840x2160-15681.jpg"><img src="lix-collection/asus-tuf-gaming-5k-logo-3840x2160-15681.jpg" width="200"/></a> 
 <a href="lix-collection/b-084.jpg"><img src="lix-collection/b-084.jpg" width="200"/></a> 
 <a href="lix-collection/b-180.jpg"><img src="lix-collection/b-180.jpg" width="200"/></a> 
@@ -562,7 +542,6 @@ Click any thumbnail below to view the full-resolution image!
 <a href="lix-collection/backiee-286508-landscape.jpg"><img src="lix-collection/backiee-286508-landscape.jpg" width="200"/></a> 
 <a href="lix-collection/backiee-310808-landscape.jpg"><img src="lix-collection/backiee-310808-landscape.jpg" width="200"/></a> 
 <a href="lix-collection/backiee-312121-landscape.jpg"><img src="lix-collection/backiee-312121-landscape.jpg" width="200"/></a> 
-<a href="lix-collection/black-whole2.png"><img src="lix-collection/black-whole2.png" width="200"/></a> 
 <a href="lix-collection/blue-winter-wonderland-desktop-wallpaper.jpg"><img src="lix-collection/blue-winter-wonderland-desktop-wallpaper.jpg" width="200"/></a> 
 <a href="lix-collection/building_cyber.jpg"><img src="lix-collection/building_cyber.jpg" width="200"/></a> 
 <a href="lix-collection/car_on_mars.jpg"><img src="lix-collection/car_on_mars.jpg" width="200"/></a> 
@@ -581,39 +560,10 @@ Click any thumbnail below to view the full-resolution image!
 <a href="lix-collection/cyberpunk-sci-fi-anime-boy-hd-wallpaper-uhdpaper.com-123@5@h.jpg"><img src="lix-collection/cyberpunk-sci-fi-anime-boy-hd-wallpaper-uhdpaper.com-123@5@h.jpg" width="200"/></a> 
 <a href="lix-collection/cyberpunk-sci-fi-anime-girl-nun-4k-wallpaper-uhdpaper.com-152@5@h.jpg"><img src="lix-collection/cyberpunk-sci-fi-anime-girl-nun-4k-wallpaper-uhdpaper.com-152@5@h.jpg" width="200"/></a> 
 <a href="lix-collection/cyberpunk-soldier-sci-fi.jpg"><img src="lix-collection/cyberpunk-soldier-sci-fi.jpg" width="200"/></a> 
-<a href="lix-collection/cyberpunk.png"><img src="lix-collection/cyberpunk.png" width="200"/></a> 
 <a href="lix-collection/dark-star.jpg"><img src="lix-collection/dark-star.jpg" width="200"/></a> 
 <a href="lix-collection/desert-red-sun.jpg"><img src="lix-collection/desert-red-sun.jpg" width="200"/></a> 
 <a href="lix-collection/digital-art-landscape-long-hair-fantasy-art-wallpaper.jpg"><img src="lix-collection/digital-art-landscape-long-hair-fantasy-art-wallpaper.jpg" width="200"/></a> 
-<a href="lix-collection/downloaded-file (1).png"><img src="lix-collection/downloaded-file (1).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (10).png"><img src="lix-collection/downloaded-file (10).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (11).png"><img src="lix-collection/downloaded-file (11).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (12).png"><img src="lix-collection/downloaded-file (12).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (13).png"><img src="lix-collection/downloaded-file (13).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (14).png"><img src="lix-collection/downloaded-file (14).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (17).png"><img src="lix-collection/downloaded-file (17).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (18).png"><img src="lix-collection/downloaded-file (18).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (19).png"><img src="lix-collection/downloaded-file (19).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (2)_upscayl_4x_upscayl-standard-4x.png"><img src="lix-collection/downloaded-file (2)_upscayl_4x_upscayl-standard-4x.png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (20).png"><img src="lix-collection/downloaded-file (20).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (28).png"><img src="lix-collection/downloaded-file (28).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (29).png"><img src="lix-collection/downloaded-file (29).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (30).png"><img src="lix-collection/downloaded-file (30).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (31).png"><img src="lix-collection/downloaded-file (31).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (32).png"><img src="lix-collection/downloaded-file (32).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (34)(1).png"><img src="lix-collection/downloaded-file (34)(1).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (36)(1).png"><img src="lix-collection/downloaded-file (36)(1).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (4).png"><img src="lix-collection/downloaded-file (4).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (42).png"><img src="lix-collection/downloaded-file (42).png" width="200"/></a> 
 <a href="lix-collection/downloaded-file (48).jpeg"><img src="lix-collection/downloaded-file (48).jpeg" width="200"/></a> 
-<a href="lix-collection/downloaded-file (51).png"><img src="lix-collection/downloaded-file (51).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (52).png"><img src="lix-collection/downloaded-file (52).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (54).png"><img src="lix-collection/downloaded-file (54).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (55).png"><img src="lix-collection/downloaded-file (55).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (60).png"><img src="lix-collection/downloaded-file (60).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (62).png"><img src="lix-collection/downloaded-file (62).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (63).png"><img src="lix-collection/downloaded-file (63).png" width="200"/></a> 
-<a href="lix-collection/downloaded-file (65).png"><img src="lix-collection/downloaded-file (65).png" width="200"/></a> 
 <a href="lix-collection/downloaded-file (67).jpeg"><img src="lix-collection/downloaded-file (67).jpeg" width="200"/></a> 
 <a href="lix-collection/dunes-sun.jpg"><img src="lix-collection/dunes-sun.jpg" width="200"/></a> 
 <a href="lix-collection/emergence.jpg"><img src="lix-collection/emergence.jpg" width="200"/></a> 
@@ -628,43 +578,28 @@ Click any thumbnail below to view the full-resolution image!
 <a href="lix-collection/kakashi-cyberpunk-ninja-hd-wallpaper-uhdpaper.com-319@2@b.jpg"><img src="lix-collection/kakashi-cyberpunk-ninja-hd-wallpaper-uhdpaper.com-319@2@b.jpg" width="200"/></a> 
 <a href="lix-collection/kv3o721sr2u51.jpg"><img src="lix-collection/kv3o721sr2u51.jpg" width="200"/></a> 
 <a href="lix-collection/lab.jpg"><img src="lix-collection/lab.jpg" width="200"/></a> 
-<a href="lix-collection/lock.jpg"><img src="lix-collection/lock.jpg" width="200"/></a> 
 <a href="lix-collection/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.jpg"><img src="lix-collection/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.jpg" width="200"/></a> 
 <a href="lix-collection/macos-mojave-sand-dunes-mojave-desert-california-night-dark-5120x2880-4051.jpg"><img src="lix-collection/macos-mojave-sand-dunes-mojave-desert-california-night-dark-5120x2880-4051.jpg" width="200"/></a> 
 <a href="lix-collection/macos-monterey-wwdc-21-stock-dark-mode-5k-6016x6016-5585.jpg"><img src="lix-collection/macos-monterey-wwdc-21-stock-dark-mode-5k-6016x6016-5585.jpg" width="200"/></a> 
 <a href="lix-collection/mechanicalkeyboard-1756404676267-5655.jpg"><img src="lix-collection/mechanicalkeyboard-1756404676267-5655.jpg" width="200"/></a> 
-<a href="lix-collection/miles-morales-red-5120x2880-22574.png"><img src="lix-collection/miles-morales-red-5120x2880-22574.png" width="200"/></a> 
 <a href="lix-collection/minimal-beton-building.jpg"><img src="lix-collection/minimal-beton-building.jpg" width="200"/></a> 
 <a href="lix-collection/muscle-car-ice-road-red-moon.jpg"><img src="lix-collection/muscle-car-ice-road-red-moon.jpg" width="200"/></a> 
 <a href="lix-collection/mystical-night-in-town.jpg"><img src="lix-collection/mystical-night-in-town.jpg" width="200"/></a> 
-<a href="lix-collection/nasa.jpg"><img src="lix-collection/nasa.jpg" width="200"/></a> 
-<a href="lix-collection/new-worlds.png"><img src="lix-collection/new-worlds.png" width="200"/></a> 
 <a href="lix-collection/night-firewatch-scenery-forest-nature-4k-wallpaper-uhdpaper.com-418@5@d.jpg"><img src="lix-collection/night-firewatch-scenery-forest-nature-4k-wallpaper-uhdpaper.com-418@5@d.jpg" width="200"/></a> 
 <a href="lix-collection/night-sky-planet-landscape-scenery-sci-fi-digital-art-uhdpaper.com-hd-6.2649.jpg"><img src="lix-collection/night-sky-planet-landscape-scenery-sci-fi-digital-art-uhdpaper.com-hd-6.2649.jpg" width="200"/></a> 
-<a href="lix-collection/nothing-3a.png"><img src="lix-collection/nothing-3a.png" width="200"/></a> 
 <a href="lix-collection/omen-valorant-3840x2160-14511.jpeg"><img src="lix-collection/omen-valorant-3840x2160-14511.jpeg" width="200"/></a> 
-<a href="lix-collection/omen-valorant-pc-games-2020-games-3840x2160-2822.png"><img src="lix-collection/omen-valorant-pc-games-2020-games-3840x2160-2822.png" width="200"/></a> 
 <a href="lix-collection/omen-valorant-pc-games-2021-3840x2160-5544.jpg"><img src="lix-collection/omen-valorant-pc-games-2021-3840x2160-5544.jpg" width="200"/></a> 
 <a href="lix-collection/planet-space-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-234@0@g.jpg"><img src="lix-collection/planet-space-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-234@0@g.jpg" width="200"/></a> 
 <a href="lix-collection/planet-space-sci-fi-hd-wallpaper-uhdpaper.com-176@5@c.jpg"><img src="lix-collection/planet-space-sci-fi-hd-wallpaper-uhdpaper.com-176@5@c.jpg" width="200"/></a> 
 <a href="lix-collection/por.jpg"><img src="lix-collection/por.jpg" width="200"/></a> 
 <a href="lix-collection/raw-expression.jpg"><img src="lix-collection/raw-expression.jpg" width="200"/></a> 
-<a href="lix-collection/retro-truck.png"><img src="lix-collection/retro-truck.png" width="200"/></a> 
 <a href="lix-collection/reyna-valorant-pc-games-2020-games-3840x2160-2823.jpg"><img src="lix-collection/reyna-valorant-pc-games-2020-games-3840x2160-2823.jpg" width="200"/></a> 
 <a href="lix-collection/river_to_castle_theme_blue.jpg"><img src="lix-collection/river_to_castle_theme_blue.jpg" width="200"/></a> 
 <a href="lix-collection/samurai-anime-girl-katana-kimono-sci-fi-4k-wallpaper-uhdpaper.com-311@5@d.jpg"><img src="lix-collection/samurai-anime-girl-katana-kimono-sci-fi-4k-wallpaper-uhdpaper.com-311@5@d.jpg" width="200"/></a> 
 <a href="lix-collection/samurai-cherry-blossom-sunrise-fantasy-hd-wallpaper-uhdpaper.com-823@2@b.jpg"><img src="lix-collection/samurai-cherry-blossom-sunrise-fantasy-hd-wallpaper-uhdpaper.com-823@2@b.jpg" width="200"/></a> 
-<a href="lix-collection/samurai-cyberpunk-3840x2160-12877.png"><img src="lix-collection/samurai-cyberpunk-3840x2160-12877.png" width="200"/></a> 
 <a href="lix-collection/samurai-silhouette-fantasy-hd-wallpaper-uhdpaper.com-165@3@a.jpg"><img src="lix-collection/samurai-silhouette-fantasy-hd-wallpaper-uhdpaper.com-165@3@a.jpg" width="200"/></a> 
 <a href="lix-collection/samurai_warrior_silhouette_216195_3840x2160.jpg"><img src="lix-collection/samurai_warrior_silhouette_216195_3840x2160.jpg" width="200"/></a> 
-<a href="lix-collection/satoru-gojo-jujutsu-3840x2160-10828.png"><img src="lix-collection/satoru-gojo-jujutsu-3840x2160-10828.png" width="200"/></a> 
 <a href="lix-collection/sci-fi-soldier-uhdpaper.com-4K-4.1010.jpg"><img src="lix-collection/sci-fi-soldier-uhdpaper.com-4K-4.1010.jpg" width="200"/></a> 
-<a href="lix-collection/sports-car-1_upscayl_4x_upscayl-standard-4x.png"><img src="lix-collection/sports-car-1_upscayl_4x_upscayl-standard-4x.png" width="200"/></a> 
-<a href="lix-collection/sports-car-4_upscayl_4x_upscayl-standard-4x.png"><img src="lix-collection/sports-car-4_upscayl_4x_upscayl-standard-4x.png" width="200"/></a> 
-<a href="lix-collection/sports-car-5_upscayl_4x_upscayl-standard-4x.png"><img src="lix-collection/sports-car-5_upscayl_4x_upscayl-standard-4x.png" width="200"/></a> 
-<a href="lix-collection/sports-cars-2_upscayl_4x_upscayl-standard-4x.png"><img src="lix-collection/sports-cars-2_upscayl_4x_upscayl-standard-4x.png" width="200"/></a> 
-<a href="lix-collection/sports-cars-3_upscayl_4x_upscayl-standard-4x.png"><img src="lix-collection/sports-cars-3_upscayl_4x_upscayl-standard-4x.png" width="200"/></a> 
-<a href="lix-collection/sports-cars_upscayl_4x_upscayl-standard-4x.png"><img src="lix-collection/sports-cars_upscayl_4x_upscayl-standard-4x.png" width="200"/></a> 
 <a href="lix-collection/sung-jinwoo-shadow-summon-solo-leveling-arise-4k-wallpaper-uhdpaper.com-243@5@b.jpg"><img src="lix-collection/sung-jinwoo-shadow-summon-solo-leveling-arise-4k-wallpaper-uhdpaper.com-243@5@b.jpg" width="200"/></a> 
 <a href="lix-collection/sunset-lake-scenery-digital-art-hd-wallpaper-uhdpaper.com-8@5@g.jpg"><img src="lix-collection/sunset-lake-scenery-digital-art-hd-wallpaper-uhdpaper.com-8@5@g.jpg" width="200"/></a> 
 <a href="lix-collection/sunset-lookout.jpg"><img src="lix-collection/sunset-lookout.jpg" width="200"/></a> 
@@ -681,7 +616,6 @@ Click any thumbnail below to view the full-resolution image!
 <a href="lix-collection/viper-valorant-pc-games-2020-games-3840x2160-2818.jpg"><img src="lix-collection/viper-valorant-pc-games-2020-games-3840x2160-2818.jpg" width="200"/></a> 
 <a href="lix-collection/vulcan.jpg"><img src="lix-collection/vulcan.jpg" width="200"/></a> 
 <a href="lix-collection/wallhaven-6d1jk6.jpg"><img src="lix-collection/wallhaven-6d1jk6.jpg" width="200"/></a> 
-<a href="lix-collection/wallpape.png"><img src="lix-collection/wallpape.png" width="200"/></a> 
 <a href="lix-collection/wallpaper.jpg"><img src="lix-collection/wallpaper.jpg" width="200"/></a> 
 <a href="lix-collection/wallpaper1.jpg"><img src="lix-collection/wallpaper1.jpg" width="200"/></a> 
 <a href="lix-collection/wallpaperflare.com_wal).jpg"><img src="lix-collection/wallpaperflare.com_wal).jpg" width="200"/></a> 
