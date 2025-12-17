@@ -816,7 +816,6 @@ Click any thumbnail below to view the full-resolution image!
 <a href="waifus/AyuFk24KtFkRyVM.png"><img src="waifus/AyuFk24KtFkRyVM.png" width="200"/></a> 
 <a href="waifus/BemADdRArLGEsAE.jpg"><img src="waifus/BemADdRArLGEsAE.jpg" width="200"/></a> 
 <a href="waifus/CELESTIA-SCATHACH.png"><img src="waifus/CELESTIA-SCATHACH.png" width="200"/></a> 
-<a href="waifus/D39kquf1kZZFVxQ.jpg"><img src="waifus/D39kquf1kZZFVxQ.jpg" width="200"/></a> 
 <a href="waifus/GN7Yhb4Puu6q0Yw.png"><img src="waifus/GN7Yhb4Puu6q0Yw.png" width="200"/></a> 
 <a href="waifus/GQQx8Rm.png"><img src="waifus/GQQx8Rm.png" width="200"/></a> 
 <a href="waifus/H0crrI60uL1fKS2.png"><img src="waifus/H0crrI60uL1fKS2.png" width="200"/></a> 
@@ -828,7 +827,6 @@ Click any thumbnail below to view the full-resolution image!
 <a href="waifus/MaN7bPq5z6pL3JR.jpg"><img src="waifus/MaN7bPq5z6pL3JR.jpg" width="200"/></a> 
 <a href="waifus/Mashu-PC.jpg"><img src="waifus/Mashu-PC.jpg" width="200"/></a> 
 <a href="waifus/Nero.png"><img src="waifus/Nero.png" width="200"/></a> 
-<a href="waifus/OZz6Z73i1JmqVFC.jpg"><img src="waifus/OZz6Z73i1JmqVFC.jpg" width="200"/></a> 
 <a href="waifus/Pv3fVY3.png"><img src="waifus/Pv3fVY3.png" width="200"/></a> 
 <a href="waifus/RLhnbWSekMOeU7q.png"><img src="waifus/RLhnbWSekMOeU7q.png" width="200"/></a> 
 <a href="waifus/S4g5NG9.png"><img src="waifus/S4g5NG9.png" width="200"/></a> 
@@ -853,19 +851,10 @@ Click any thumbnail below to view the full-resolution image!
 <a href="waifus/blur_red_waifu.jpg"><img src="waifus/blur_red_waifu.jpg" width="200"/></a> 
 <a href="waifus/buEge1h14kRpNli.jpg"><img src="waifus/buEge1h14kRpNli.jpg" width="200"/></a> 
 <a href="waifus/dddd.png"><img src="waifus/dddd.png" width="200"/></a> 
-<a href="waifus/demon_slayer_waifu.jpg"><img src="waifus/demon_slayer_waifu.jpg" width="200"/></a> 
-<a href="waifus/demon_slayer_waifu_2.jpg"><img src="waifus/demon_slayer_waifu_2.jpg" width="200"/></a> 
 <a href="waifus/esdeath.jpg"><img src="waifus/esdeath.jpg" width="200"/></a> 
-<a href="waifus/f73cf6e02d23bfa63164d2b9666aa25c.png"><img src="waifus/f73cf6e02d23bfa63164d2b9666aa25c.png" width="200"/></a> 
-<a href="waifus/genshin_waifu.jpg"><img src="waifus/genshin_waifu.jpg" width="200"/></a> 
-<a href="waifus/genshin_waifu_2.jpg"><img src="waifus/genshin_waifu_2.jpg" width="200"/></a> 
-<a href="waifus/genshin_waifu_3.jpg"><img src="waifus/genshin_waifu_3.jpg" width="200"/></a> 
-<a href="waifus/genshin_waifu_4.jpg"><img src="waifus/genshin_waifu_4.jpg" width="200"/></a> 
 <a href="waifus/hASFcJK.jpg"><img src="waifus/hASFcJK.jpg" width="200"/></a> 
 <a href="waifus/heisboy.jpg"><img src="waifus/heisboy.jpg" width="200"/></a> 
 <a href="waifus/hn0L6NY00oV0wcT.png"><img src="waifus/hn0L6NY00oV0wcT.png" width="200"/></a> 
-<a href="waifus/hutao_waifu.jpg"><img src="waifus/hutao_waifu.jpg" width="200"/></a> 
-<a href="waifus/hutao_waifu_2.jpg"><img src="waifus/hutao_waifu_2.jpg" width="200"/></a> 
 <a href="waifus/juqYN1iWyEviuD7.png"><img src="waifus/juqYN1iWyEviuD7.png" width="200"/></a> 
 <a href="waifus/k9GQQCR.png"><img src="waifus/k9GQQCR.png" width="200"/></a> 
 <a href="waifus/kurisu.jpg"><img src="waifus/kurisu.jpg" width="200"/></a> 
@@ -881,24 +870,8 @@ Click any thumbnail below to view the full-resolution image!
 <a href="waifus/mpv-shot0009.jpg"><img src="waifus/mpv-shot0009.jpg" width="200"/></a> 
 <a href="waifus/mpv-shot0010.jpg"><img src="waifus/mpv-shot0010.jpg" width="200"/></a> 
 <a href="waifus/mpv-shot0013.jpg"><img src="waifus/mpv-shot0013.jpg" width="200"/></a> 
-<a href="waifus/nezuko_waifu.jpg"><img src="waifus/nezuko_waifu.jpg" width="200"/></a> 
-<a href="waifus/nier_automota_waifu.jpg"><img src="waifus/nier_automota_waifu.jpg" width="200"/></a> 
-<a href="waifus/purple_katana_waifu.jpg"><img src="waifus/purple_katana_waifu.jpg" width="200"/></a> 
-<a href="waifus/purple_waifu.jpg"><img src="waifus/purple_waifu.jpg" width="200"/></a> 
-<a href="waifus/raiden_waifu.jpg"><img src="waifus/raiden_waifu.jpg" width="200"/></a> 
-<a href="waifus/rand_cool_waifu.jpg"><img src="waifus/rand_cool_waifu.jpg" width="200"/></a> 
-<a href="waifus/rand_waifu.jpg"><img src="waifus/rand_waifu.jpg" width="200"/></a> 
-<a href="waifus/rand_waifu_2.jpg"><img src="waifus/rand_waifu_2.jpg" width="200"/></a> 
-<a href="waifus/rand_waifu_3.jpg"><img src="waifus/rand_waifu_3.jpg" width="200"/></a> 
 <a href="waifus/red_purple.jpg"><img src="waifus/red_purple.jpg" width="200"/></a> 
-<a href="waifus/rem_waifu.jpg"><img src="waifus/rem_waifu.jpg" width="200"/></a> 
 <a href="waifus/rezero.jpg"><img src="waifus/rezero.jpg" width="200"/></a> 
-<a href="waifus/school_katana_waifu.jpg"><img src="waifus/school_katana_waifu.jpg" width="200"/></a> 
-<a href="waifus/tifa_waifu.jpg"><img src="waifus/tifa_waifu.jpg" width="200"/></a> 
-<a href="waifus/uwp4423297.png"><img src="waifus/uwp4423297.png" width="200"/></a> 
-<a href="waifus/vermil_waifu.jpg"><img src="waifus/vermil_waifu.jpg" width="200"/></a> 
-<a href="waifus/violet_evergarden_waifu.jpg"><img src="waifus/violet_evergarden_waifu.jpg" width="200"/></a> 
-<a href="waifus/vjjF1RyVoXUjrHM.jpg"><img src="waifus/vjjF1RyVoXUjrHM.jpg" width="200"/></a> 
 <a href="waifus/w0Mc6z6.png"><img src="waifus/w0Mc6z6.png" width="200"/></a> 
 <a href="waifus/waifu_pink.png"><img src="waifus/waifu_pink.png" width="200"/></a> 
 <a href="waifus/wallhaven-5gorx9.jpg"><img src="waifus/wallhaven-5gorx9.jpg" width="200"/></a> 
@@ -906,14 +879,7 @@ Click any thumbnail below to view the full-resolution image!
 <a href="waifus/wallpaperflare.com_wallpaper3.jpg"><img src="waifus/wallpaperflare.com_wallpaper3.jpg" width="200"/></a> 
 <a href="waifus/wallpaperflare.com_wallpaper4.jpg"><img src="waifus/wallpaperflare.com_wallpaper4.jpg" width="200"/></a> 
 <a href="waifus/yIIWj0ZNB0ejd4o.png"><img src="waifus/yIIWj0ZNB0ejd4o.png" width="200"/></a> 
-<a href="waifus/yor_waifu_7.jpg"><img src="waifus/yor_waifu_7.jpg" width="200"/></a> 
-<a href="waifus/yor_waifu_8.jpg"><img src="waifus/yor_waifu_8.jpg" width="200"/></a> 
 <a href="waifus/zEvjSukswk0x6dm.png"><img src="waifus/zEvjSukswk0x6dm.png" width="200"/></a> 
-<a href="waifus/zerotwo_waifu.jpg"><img src="waifus/zerotwo_waifu.jpg" width="200"/></a> 
-<a href="waifus/zerotwo_waifu_2.jpg"><img src="waifus/zerotwo_waifu_2.jpg" width="200"/></a> 
-<a href="waifus/zerotwo_waifu_3.jpg"><img src="waifus/zerotwo_waifu_3.jpg" width="200"/></a> 
-<a href="waifus/zerotwo_waifu_4.jpg"><img src="waifus/zerotwo_waifu_4.jpg" width="200"/></a> 
-<a href="waifus/zerotwo_waifu_5.jpg"><img src="waifus/zerotwo_waifu_5.jpg" width="200"/></a> 
 
 ---
 
