@@ -432,6 +432,19 @@ Click any thumbnail below to view the full-resolution image!
 
 ---
 
+## 📁 celestia
+
+<a href="celestia/blackhole.jpg"><img src="celestia/blackhole.jpg" width="200"/></a> 
+<a href="celestia/blackhole2.jpg"><img src="celestia/blackhole2.jpg" width="200"/></a> 
+<a href="celestia/earth.jpg"><img src="celestia/earth.jpg" width="200"/></a> 
+<a href="celestia/gargantua.jpg"><img src="celestia/gargantua.jpg" width="200"/></a> 
+<a href="celestia/interstellar_blackhole.jpg"><img src="celestia/interstellar_blackhole.jpg" width="200"/></a> 
+<a href="celestia/mars_max.jpg"><img src="celestia/mars_max.jpg" width="200"/></a> 
+<a href="celestia/outer_space.jpg"><img src="celestia/outer_space.jpg" width="200"/></a> 
+<a href="celestia/wide_space.jpg"><img src="celestia/wide_space.jpg" width="200"/></a> 
+
+---
+
 ## 📁 daemon-collection
 
 <a href="daemon-collection/120256374_p0.png"><img src="daemon-collection/120256374_p0.png" width="200"/></a> 
